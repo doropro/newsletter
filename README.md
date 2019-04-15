@@ -18,7 +18,7 @@ Terminé
 
 ## Liens utiles :
 
-lien des consignes : <https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap>
+lien des consignes : https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/NewsletterYvesRocher
 
 lien github page : https://doropro.github.io/newsletter/
 

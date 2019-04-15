@@ -20,5 +20,5 @@ Terminé
 
 lien des consignes : <https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Restaurant_Bootstrap>
 
-lien github page : <https://doropro.github.io/bootstrap-resto-website/>
+lien github page : https://doropro.github.io/newsletter/
 
